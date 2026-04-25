@@ -1,3 +1,24 @@
 MBA em Desenvolvimento FullStack pela IGTI e Analista de desenvolvimento de sistemas pela UNIP.
 
 ✨ Dicas especiais aqui no Git. 
+
+
+#####################################################
+# Imagem utilizada: https://hub.docker.com/_/mysql/
+#####################################################
+
+services:
+  db:
+    image: mysql:8.0
+    container_name: mysql-db
+    restart: always
+    environment:
+      MYSQL_ROOT_PASSWORD: 123456
+      MYSQL_DATABASE: myfirstapi
+    ports:
+      - "3306:3306"
+    volumes:
+       - ./database/script_inicial.sql:/docker-entrypoint-initdb.d/script_inicial.sql  # Mapeia seu script inicial para o contêiner
+
+volumes:
+  mysql_data:
