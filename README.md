@@ -1,4 +1,4 @@
-<h2 align="left">Oi 👋! meu nome é Marcelo Fazan</h2>
+<h2 align="left">Olá 👋! meu nome é Marcelo Fazan</h2>
 
 ###
 
