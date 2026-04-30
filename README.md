@@ -1,22 +1,17 @@
 <h2 align="left">Olá 👋! meu nome é Marcelo Fazan</h2>
 
+## Sobre mim
+
+- 🎓 Pos-Graduado em MBA FullStack pelo instituto XP Educação de Belo Horizonte.
+- 🎓 Formação em Análise e Desenvolvimento de Sistemas pela Unip - Universidade Paulista.
+- 🌱 Atualmente estudando mais .NET Core e Node.js  para aprimorar as habilidades de desenvolvimento.
+
 ###
 
 <br clear="both">
 
 <img align="right" height="125" src="![image](https://github.com/user-attachments/assets/bb67941a-42d8-4db9-9bdf-170e421a3813)
 "  />
-
-###
-
-<div align="center">
-  <a href="https://www.instagram.com/marcelogustavoface" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
-  <a href="https://www.linkedin.com/in/cvmarcelogustavofazan" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
@@ -44,11 +39,6 @@
 </div>
 
 ###
-## Sobre mim
-
-- 🎓 Pos-Graduado em MBA FullStack pelo instituto XP Educação de Belo Horizonte.
-- 🎓 Formação em Análise e Desenvolvimento de Sistemas pela Unip - Universidade Paulista.
-- 🌱 Atualmente estudando mais .NET Core e Node.js  para aprimorar as habilidades de desenvolvimento.
 
 ## Algumas de minhas competências (Hard Skills)
 
@@ -68,6 +58,20 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
+
+
+###
+
+<div align="center">
+  <a href="https://www.instagram.com/marcelogustavoface" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  </a>
+  <a href="https://www.linkedin.com/in/cvmarcelogustavofazan" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
+
+###
 
 
 <br/>
