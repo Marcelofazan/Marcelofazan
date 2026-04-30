@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Marcelo Fazan</h2>
+<h2 align="left">Oi 👋! meu nome é Marcelo Fazan</h2>
 
 ###
 
@@ -46,10 +46,10 @@
 ###
 ## About Me
 
-- 🎓 Exploring new technologies and developing software solutions.
-- 🎓 Studying FullStack at the Federal Institute of Belo Horizonte.
-- 🎓 Studying Systems Analysis and Development at Unip - University Paulista.
-- 🌱 Currently studying more about Node.js and improving my development skills.
+- 🎓 Exploração de novas tecnologias e desenvolver soluções de software.
+- 🎓 Pos-Graduado em MBA FullStack pelo instituto XP Educação de Belo Horizonte.
+- 🎓 Formação em Análise e Desenvolvimento de Sistemas pela Unip - Universidade Paulista.
+- 🌱 Atualmente estudando mais .NET Core e Node.js  para aprimorar as habilidades de desenvolvimento.
 
 ## My Skills
 
