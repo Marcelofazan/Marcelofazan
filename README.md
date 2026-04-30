@@ -1,6 +1,4 @@
-<h2 align="left">Olá 👋! meu nome é Marcelo Fazan</h2>
-
-## Sobre mim
+<h2 align="left">👋 Marcelo Fazan</h2>
 
 - 🎓 Pos-Graduado em MBA FullStack pelo instituto XP Educação de Belo Horizonte.
 - 🎓 Formação em Análise e Desenvolvimento de Sistemas pela Unip - Universidade Paulista.
