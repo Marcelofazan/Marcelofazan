@@ -63,7 +63,7 @@
 
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-![Postgree](https://img.shields.io/badge/-Postgree-333333?style=flat&logo=postgree)
+(![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=fff&style=for-the-badge))
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
