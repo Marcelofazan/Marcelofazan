@@ -44,14 +44,13 @@
 </div>
 
 ###
-## About Me
+## Sobre mim
 
-- 🎓 Exploração de novas tecnologias e desenvolver soluções de software.
 - 🎓 Pos-Graduado em MBA FullStack pelo instituto XP Educação de Belo Horizonte.
 - 🎓 Formação em Análise e Desenvolvimento de Sistemas pela Unip - Universidade Paulista.
 - 🌱 Atualmente estudando mais .NET Core e Node.js  para aprimorar as habilidades de desenvolvimento.
 
-## My Skills
+## Algumas de minhas competências (Hard Skills)
 
 ![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
