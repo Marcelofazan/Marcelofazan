@@ -6,8 +6,7 @@
 
 <br clear="both">
 
-<img align="right" height="125" src="![image](https://github.com/user-attachments/assets/bb67941a-42d8-4db9-9bdf-170e421a3813)
-"  />
+<img align="right" height="125" src="![image](https://github.com/user-attachments/assets/bb67941a-42d8-4db9-9bdf-170e421a3813)"  />
 
 ###
 
