@@ -27,10 +27,7 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=marcelofazan&locale=en&mode=daily&theme=github_dark&hide_border=true&border_radius=5" height="150" alt="streak graph"  />
-
-  [![Top Languages do seu-usuario](https://vercel.app)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marcelofazan&hide_border=true" alt="GitHub Streak" /></a>
 
 </div>
 
