@@ -1,39 +1,30 @@
+### Olá, eu sou o Marcelo Fazan 👋
+
 - 🎓 Pos-Graduado em MBA FullStack pelo instituto XP Educação de Belo Horizonte.
 - 🎓 Formação em Análise e Desenvolvimento de Sistemas pela Unip - Universidade Paulista.
 - 🌱 Atualmente estudando mais .NET Core e Node.js  para aprimorar as habilidades de desenvolvimento.
 
-###
+---
+
+### 📊 Meu Desempenho no GitHub
 
 <br clear="both">
 
-<img align="right" height="125" src="![image](https://github.com/user-attachments/assets/bb67941a-42d8-4db9-9bdf-170e421a3813)"  />
-
-###
-
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-original.svg" height="30" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="30" alt="nodejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcelofazan&show_icons=true&theme=dark" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&layout=compact&theme=dark" />
 </div>
 
-###
+---
 
 <div align="center">
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=marcelofazan&hide_border=true" alt="GitHub Streak" /></a>
 
 </div>
 
-###
+---
 
-## Algumas de minhas competências (Hard Skills)
+### 💻 Algumas de minhas competências (Hard Skills)
 
 ![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
@@ -52,9 +43,8 @@
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
 
-
-###
-
+---
+### 📫 Vamos nos conectar?
 <div align="center">
   <a href="https://www.instagram.com/marcelogustavoface" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -63,8 +53,6 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
-
-###
-
+---
 
 <br/>
