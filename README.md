@@ -35,8 +35,8 @@
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
 ![Trello](https://img.shields.io/badge/-Trello-333333?style=flat&logo=trello&logoColor=007ACC)
 
-
 ---
+
 ### 📫 Vamos nos conectar?
 <div align="center">
   <a href="https://www.instagram.com/marcelogustavoface" target="_blank">
@@ -46,6 +46,4 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
 </div>
----
 
-<br/>
