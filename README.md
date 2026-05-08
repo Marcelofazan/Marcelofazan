@@ -37,16 +37,16 @@ Bancos de dados
 
 ---
 
-Repositórios
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+Ferramentas 
+![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 
-Ferramentas 
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-333333?style=flat&logo=visual-studio&logoColor=5C2D91)
+CI/CD
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ---
 
