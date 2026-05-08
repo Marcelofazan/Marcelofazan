@@ -29,7 +29,7 @@
 ---
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQL-Server](https://img.shields.io/badge/-SQL-Server-333333?style=flat&logo=sql-server)
+![SQL-Server](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
 
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
