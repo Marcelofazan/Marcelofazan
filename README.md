@@ -1,8 +1,8 @@
 ### Olá, eu sou o Marcelo Fazan 👋
 
-- 🎓 Pos-Graduado em MBA FullStack pelo instituto XP Educação de Belo Horizonte.
+- 🎓 MBA em desenvolvimento FullStack pelo instituto XP Educação de Belo Horizonte.
 - 🎓 Formação em Análise e Desenvolvimento de Sistemas pela Unip - Universidade Paulista.
-- 🌱 Atualmente estudando mais .NET Core e Node.js  para aprimorar as habilidades de desenvolvimento.
+- 🌱 Atualmente estudando mais .NET Core e Node.js para aprimorar as habilidades em desenvolvimento.
 
 ---
 
