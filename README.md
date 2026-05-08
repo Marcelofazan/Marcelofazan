@@ -36,6 +36,7 @@
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
 ---
 
