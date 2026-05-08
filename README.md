@@ -28,14 +28,14 @@
 
 ---
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
+![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 ---
 
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
 ---
 
