@@ -38,7 +38,7 @@
 ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ---
 
 - Ferramentas
@@ -59,9 +59,6 @@
 
 ### 📫 Vamos nos conectar?
 <div align="center">
-  <a href="https://www.instagram.com/marcelogustavoface" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  </a>
   <a href="https://www.linkedin.com/in/cvmarcelogustavofazan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
