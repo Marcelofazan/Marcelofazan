@@ -50,15 +50,15 @@
 
 - CI/CD
 ###
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ---
 
 ### 📫 Vamos nos conectar?
 <div align="center">
-  <a href="https://www.instagram.com/gustavoguga.guz" target="_blank">
+  <a href="https://www.instagram.com/marcelogustavoface" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
   <a href="https://www.linkedin.com/in/cvmarcelogustavofazan" target="_blank">
