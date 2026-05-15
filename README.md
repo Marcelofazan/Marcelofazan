@@ -35,6 +35,7 @@ Modelagem de banco de dados, Definição de dados, Integridade de dados, Transac
 ![Razor](https://img.shields.io/badge/-Razor-333333?style=flat&logo=razor)
 ![Xamarin Forms](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+
 ---
 ### ⚙️ Bancos de dados
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
