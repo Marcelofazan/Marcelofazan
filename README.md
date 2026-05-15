@@ -33,7 +33,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![XAML](https://img.shields.io/badge/-Xaml-333333?style=flat&logo=xaml)
+![XamarinForms](https://img.shields.io/badge/-XamarinForms-333333?style=flat&logo=xamarinforms)
 ---
 ### ⚙️ Bancos de dados
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
