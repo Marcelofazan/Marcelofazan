@@ -29,11 +29,11 @@
 ### 💻 Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![Razor](https://img.shields.io/badge/-Razor-333333?style=flat&logo=razor)
+![Xamarin Forms](https://img.shields.io/badge/-Xamarin-Forms-333333?style=flat&logo=xamarin-forms)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![XamarinForms](https://img.shields.io/badge/-XamarinForms-333333?style=flat&logo=xamarinforms)
-
 ---
 ### ⚙️ Bancos de dados
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
