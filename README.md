@@ -38,15 +38,15 @@
 ### ⚙️ Bancos de dados
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
-![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 
 ---
 ### 🛠️ Ferramentas
-![Visual Studio](https://img.shields.io/badge/VisualStudio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
-![Visual Studio Code](https://img.shields.io/badge/Visual-Code-333333?style=flat&logo=visual-code&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
+![Visual Studio Code](https://img.shields.io/badge/-Visual-Code-333333?style=flat&logo=visual-code&logoColor=007ACC)
 
 ---
 ### 🎯 CI/CD
