@@ -45,8 +45,8 @@
 
 ---
 ### 🛠️ Ferramentas
-![Visual Code](https://img.shields.io/badge/VisualCode-333333?style=flat&logo=visual-code&logoColor=007ACC)
 ![Visual Studio](https://img.shields.io/badge/VisualStudio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
+![Visual Studio Code](https://img.shields.io/badge/Visual-Studio-Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
 
 ---
 ### 🎯 CI/CD
