@@ -22,7 +22,7 @@ Modelagem de banco de dados, Definição de dados, Integridade de dados, Transac
 
 ---
 ### 💻 Backend  
-![C#](https://img.shields.io/badge/-C-Sharp-333333?style=flat&logo=c-sharp&logoColor=239120)
+![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
 ![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
