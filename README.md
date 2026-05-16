@@ -29,8 +29,12 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
 ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![Razor](https://img.shields.io/badge/-Razor-333333?style=flat&logo=razor)
-![Xamarin Forms](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+
+---
+### 💻 Mobile
+![Xamarin Forms](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
+![React Native](https://img.shields.io/badge/-React-Native-333333?style=flat&logo=reactnative)
 
 ---
 ### ⚙️ Bancos de dados
@@ -48,6 +52,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 
 ---
 ### 🎯 CI/CD
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
