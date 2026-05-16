@@ -1,6 +1,6 @@
-###  Marcelo Gustavo Fazan 
+##  Marcelo Gustavo Fazan 
 ---
-Olá pessoal 👋
+# Olá pessoal 👋
 
 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Universidade Paulista em 2020, com Pós Graduação MBA em Desenvolvimento FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente estou me aprofundando mais em tecnologias Node.js e .NET para Backend e Frontend em geral incluindo React, TypeScript e Mobile.
 
