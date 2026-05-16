@@ -2,7 +2,7 @@
 
 ### Olá pessoal 👋
 
-Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Universidade Paulista em 2020, com Pós-Graduação MBA em Desenvolvimento FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente me aprofundando em tecnologias C#, ASP.NET Core para desenvolvimento utilizando Ubuntu e Backend/Frontend para web moderno utilizando Node.js com React e Typescript.
+Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Universidade Paulista em 2020, com Pós-Graduação MBA em Desenvolvimento FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente me aprofundando em tecnologias C#, ASP.NET Core para desenvolvimento Backend utilizando Ubuntu e FullStack para web moderno utilizando Node.js com React e Typescript.
 
 ---
 
