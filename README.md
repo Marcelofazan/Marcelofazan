@@ -50,6 +50,8 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 ### 🛠️ Ferramentas
 ![Visual Studio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
 ![Visual Code](https://img.shields.io/badge/-VisualCode-333333?style=flat&logo=visualcode&logoColor=007ACC)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman&logoColor=007ACC)
+
 
 ---
 ### 🎯 CI/CD
