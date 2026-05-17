@@ -40,10 +40,10 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 ### ⚙️ Bancos de dados
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 ---
 ### 🛠️ Ferramentas
