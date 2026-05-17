@@ -19,7 +19,6 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 
 ### 💻 Backend  
 ![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
-![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp&logoColor=239120)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
 ---
