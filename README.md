@@ -47,15 +47,15 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 
 ---
 ### 🛠️ Ferramentas
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
 ![Visual Code](https://img.shields.io/badge/-VisualCode-333333?style=flat&logo=visualcode&logoColor=007ACC)
+![Visual Studio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
 
 ---
 ### 🎯 CI/CD
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
 ---
 ### 👨‍💻📘 Lista de competências (Hard Skills) 
