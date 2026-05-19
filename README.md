@@ -6,16 +6,6 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 
 ---
 
-#### 📊 Meu Desempenho no GitHub
-
-<br clear="both">
-
-<div align="center">
-  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=10&layout=compact&theme=algolia&hide=css,html&theme=light" />
-</div>
-
----
-
 #### 🛠️ Desenvolvimento Backend  
 ![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
@@ -49,6 +39,15 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 
 ---
 
+#### 📊 Meu Desempenho no GitHub
+
+<br clear="both">
+
+<div align="center">
+  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=10&layout=compact&theme=algolia&hide=css,html&theme=light" />
+</div>
+
+---
 
 #### 📘 Lista de competências
 Modelagem de banco de dados, Definição de dados, Integridade de dados, Transact-SQL, Stored Procedure de T-SQL, Otimização de consultas SQL, Migração de banco de dados, Análise de requisitos, Padrões de projeto (Design Patterns), Programação orientada a objetos (POO), Arquitetura em camadas (N-tier), Mapeamento de processos de negócio, Lógica de negócios, Manipulação de dados, Manipulação de eventos, Customização de ERP, Criação de componentes, Otimização de renderização, Abstração de dados, Analise de erros, Análise de dados, Depuração de código, Tratamento de Erros, Assincronismo I/O, Gerenciamento de Transações, Refatoração de código, Solução de problemas técnicos, Revisão de código, Otimização de performance, Integração via SOAP, Integração de API, Implementação de autenticação, Relatórios customizados, API RESTFul, Automações, Publicação online, Controle de versão, Análise de Logs, Resolução de incidentes, Análise de performance, Integração e entrega contínuas (CI/CD), Arquitetura de soluções.
