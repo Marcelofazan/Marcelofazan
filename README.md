@@ -17,13 +17,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 
 ---
 
-#### 🛠️ Minhas Ferramentas (Hard Skills) 
-![Visual Code](https://img.shields.io/badge/-VisualCode-333333?style=flat&logo=visualcode&logoColor=007ACC)
-![Visual Studio](https://img.shields.io/badge/-VisualStudio-333333?style=flat&logo=visualstudio&logoColor=5C2D91)
-
----
-
-#### 💻 Desenvolvimento Backend  
+#### 🛠️ Desenvolvimento Backend  
 ![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
