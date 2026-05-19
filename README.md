@@ -23,7 +23,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 
-#### CI/CD
+#### Ferramentas CI/CD
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
