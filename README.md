@@ -4,7 +4,7 @@
 
 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Universidade Paulista em 2020, com Pós-Graduação MBA em Desenvolvimento FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente me aprofundando em tecnologias C#, ASP.NET Core para desenvolvimento Backend utilizando Ubuntu e FullStack para web moderno utilizando Node.js com React.
 
-#### 👥📱 Desenvolvimento Frontend
+#### Desenvolvimento Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -15,11 +15,11 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 ![Xamarin Forms](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
 ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
 
-#### 🛠️ Desenvolvimento Backend  
+#### Desenvolvimento Backend  
 ![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
-#### ⚙️ Bancos de dados
+#### Bancos de dados
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
 ![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
@@ -27,7 +27,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
-#### 🔁 Ferramentas CI/CD
+#### Ferramentas CI/CD
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
