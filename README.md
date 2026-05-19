@@ -23,6 +23,12 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 
 ---
 
+
+#### 💻 Desenvolvimento Backend  
+![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+
+---
 ### 👥 Desenvolvimento Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -34,11 +40,6 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 
 ---
 
-#### 💻 Desenvolvimento Backend  
-![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-
----
 #### 📱 Desenvolvimento Mobile
 ![Xamarin Forms](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
 ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
