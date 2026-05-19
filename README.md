@@ -28,10 +28,13 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 
 #### Ferramentas CI/CD
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+
+
+
 
 #### 📊 Meu Desempenho no GitHub
 
