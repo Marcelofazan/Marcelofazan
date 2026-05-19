@@ -18,8 +18,6 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 #### Tecnologias utilizadas no Desenvolvimento Backend  
 ![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-
-#### Bancos de dados
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
