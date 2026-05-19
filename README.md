@@ -21,6 +21,14 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 ![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 
+#### ⚙️ Bancos de dados
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
+![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+
 #### 👥 Desenvolvimento Frontend
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
@@ -42,15 +50,6 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 
 ---
 
-#### ⚙️ Bancos de dados
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
-![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-
----
 
 #### 📘 Lista de competências
 Modelagem de banco de dados, Definição de dados, Integridade de dados, Transact-SQL, Stored Procedure de T-SQL, Otimização de consultas SQL, Migração de banco de dados, Análise de requisitos, Padrões de projeto (Design Patterns), Programação orientada a objetos (POO), Arquitetura em camadas (N-tier), Mapeamento de processos de negócio, Lógica de negócios, Manipulação de dados, Manipulação de eventos, Customização de ERP, Criação de componentes, Otimização de renderização, Abstração de dados, Analise de erros, Análise de dados, Depuração de código, Tratamento de Erros, Assincronismo I/O, Gerenciamento de Transações, Refatoração de código, Solução de problemas técnicos, Revisão de código, Otimização de performance, Integração via SOAP, Integração de API, Implementação de autenticação, Relatórios customizados, API RESTFul, Automações, Publicação online, Controle de versão, Análise de Logs, Resolução de incidentes, Análise de performance, Integração e entrega contínuas (CI/CD), Arquitetura de soluções.
