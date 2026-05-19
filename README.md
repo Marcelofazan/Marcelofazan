@@ -36,7 +36,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 #### 📊 Meu Desempenho no GitHub
 
 <div align="center">
-  <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=10&layout=compact&theme=algolia&hide=c#&theme=light" />
+  <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=10&layout=compact&theme=algolia&hide=csharp,cs&theme=light" />
 </div>
 
 #### 📘 Lista de competências
