@@ -11,9 +11,8 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 <br clear="both">
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcelofazan&show_icons=true&theme=dark&include_all_langs=true" />
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&layout=compact&theme=dark&include_all_langs=true" />
-  ![Linguagens Mais Usadas](https://vercel.app)
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Marcelofazan&show_icons=true&theme=light" />
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&layout=compact&theme=light" />
 </div>
 
 ---
