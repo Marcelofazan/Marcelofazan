@@ -42,7 +42,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 <br clear="both">
 
 <div align="center">
-  <img height="250em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=10&layout=compact&theme=algolia&hide=css,html&theme=light" />
+  <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=10&layout=compact&theme=algolia&hide=css,html&theme=light" />
 </div>
 
 ---
@@ -55,6 +55,9 @@ Modelagem de banco de dados, Definição de dados, Integridade de dados, Transac
 <div align="center">
   <a href="https://www.linkedin.com/in/cvmarcelogustavofazan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+    <a href="https://www.instagram.com/marcelogustavoface" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
 </div>
 
