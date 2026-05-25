@@ -3,15 +3,15 @@
 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Universidade Paulista em 2020, com Pós-Graduação MBA em Desenvolvimento FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente me aprofundando em tecnologias C#, ASP.NET Core para desenvolvimento Backend utilizando Ubuntu e FullStack para web moderno utilizando Node.js e React.
 
 #### Tecnologias utilizadas no Desenvolvimento Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
-![Razor](https://img.shields.io/badge/-Razor-333333?style=flat&logo=razor)
-![Xamarin Forms](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Xamarin Forms](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
+![Razor](https://img.shields.io/badge/-Razor-333333?style=flat&logo=razor)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 
 #### Tecnologias utilizadas no Desenvolvimento Backend 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
