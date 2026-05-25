@@ -13,15 +13,15 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip - Univ
 ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 
-#### Tecnologias utilizadas no Desenvolvimento Backend  
-![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
+#### Tecnologias utilizadas no Desenvolvimento Backend 
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
-![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
+![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 ![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
+![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
+![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
+![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
 #### Ferramentas CI/CD
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
