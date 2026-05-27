@@ -28,7 +28,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
-
+![Windows](https://img.shields.io/badge/-Windows-333333?style=flat&logo=windows)
 ---
 #### 📊 Meu Desempenho no GitHub
 <div align="center">
