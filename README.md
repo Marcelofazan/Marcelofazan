@@ -3,8 +3,8 @@
 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente estou me aprofundando em tecnologias C# .NET Core e Node.js para desenvolvimento Backend e Frontend utilizando VSCode.
 
 #### 📊 Tecnologias de Desenvolvimento
-![BootStrap](https://img.shields.io/badge/-BootStrap-#5b5b5b?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
-![CSS](https://img.shields.io/badge/-CSS-#5b5b5b?style=for-the-badge&logo=CSS&logoColor=5C2D91)
+![BootStrap](https://img.shields.io/badge/-BootStrap-5b5b5b?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-5b5b5b?style=for-the-badge&logo=CSS&logoColor=5C2D91)
 ![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
