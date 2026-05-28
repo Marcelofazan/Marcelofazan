@@ -1,6 +1,6 @@
 #### Olá pessoal 👋
 
-Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente estou me aprofundando em tecnologias C# .NET Core e Node.js para desenvolvimento Backend utilizando VSCode e Javascript para Frontend.
+Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente estou me aprofundando em tecnologias C# .NET Core e Node.js para desenvolvimento Backend utilizando VSCode.
 
 #### Tecnologias utilizadas no Desenvolvimento Frontend
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
