@@ -3,21 +3,21 @@
 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente estou me aprofundando em tecnologias C# .NET Core e Node.js para desenvolvimento Backend e Frontend utilizando VSCode.
 
 #### 📊 Tecnologias de Desenvolvimento
-![BootStrap](https://img.shields.io/badge/-BootStrap-5C2D91?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
-![CSS](https://img.shields.io/badge/-CSS-5C2D91?style=for-the-badge&logo=CSS&logoColor=5C2D91)
-![C#](https://img.shields.io/badge/c%23-5C2D91?style=for-the-badge&logo=dotnet&logoColor=white)
-![Html5](https://img.shields.io/badge/-Html5-5C2D91?style=for-the-badge&logo=Html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-5C2D91?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
-![NODE.JS](https://img.shields.io/badge/-Node.js-5C2D91?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/-React-5C2D91?style=for-the-badge&logo=react)
-![Typescript](https://img.shields.io/badge/-Typescript-5C2D91?style=for-the-badge&logo=typescript)
-![Xamarin](https://img.shields.io/badge/Xamarin-5C2D91?style=for-the-badge&logo=xamarin&logoColor=white)
+![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=5C2D91)
+![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
+![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
+![NODE.JS](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
+![Xamarin](https://img.shields.io/badge/Xamarin-333333?style=for-the-badge&logo=xamarin&logoColor=white)
 
 #### Ferramentas CI/CD
-![Docker](https://img.shields.io/badge/-Docker-5C2D91?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-5C2D91?style=for-the-badge&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-5C2D91?style=for-the-badge&logo=postman)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-5C2D91?style=for-the-badge&logo=ubuntu)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
 
 <div align="center">
   <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
