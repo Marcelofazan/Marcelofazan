@@ -5,13 +5,13 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 #### 📊 Tecnologias de Desenvolvimento
 ![BootStrap](https://img.shields.io/badge/-BootStrap-474747?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
 ![CSS](https://img.shields.io/badge/-CSS-474747?style=for-the-badge&logo=CSS&logoColor=5C2D91)
-![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
-![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
-![.Net](https://img.shields.io/badge/-Net-333333?style=for-the-badge&logo=.Net&logoColor=5C2D91)
-![NODE.JS](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
+![C#](https://img.shields.io/badge/c%23-474747?style=for-the-badge&logo=dotnet&logoColor=white)
+![Html5](https://img.shields.io/badge/-Html5-474747?style=for-the-badge&logo=Html5)
+![JavaScript](https://img.shields.io/badge/-JavaScript-474747?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
+![.Net](https://img.shields.io/badge/-Net-474747?style=for-the-badge&logo=.Net&logoColor=5C2D91)
+![NODE.JS](https://img.shields.io/badge/-Node.js-474747?style=for-the-badge&logo=node.js)
+![React](https://img.shields.io/badge/-React-474747?style=for-the-badge&logo=react)
+![Typescript](https://img.shields.io/badge/-Typescript-474747?style=for-the-badge&logo=typescript)
 
 #### Ferramentas CI/CD
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
