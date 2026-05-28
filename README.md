@@ -8,7 +8,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 ![.Net](https://img.shields.io/badge/-Net-333333?style=flat&logo=.Net&logoColor=5C2D91)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=JAVASCRIPT&logoColor=1572B6)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=JAVASCRIPT&logoColor=#e6b706)
 ![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-333333?style=flat&logo=BOOTSTRAP&logoColor=1572B6)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
