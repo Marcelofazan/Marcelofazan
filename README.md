@@ -2,18 +2,23 @@
 
 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente estou me aprofundando em tecnologias C# .NET Core e Node.js para desenvolvimento Backend e Frontend utilizando VSCode.
 
-#### Tecnologias no Desenvolvimento Frontend
-![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
-![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-333333?style=flat&logo=BOOTSTRAP&logoColor=1572B6)
-![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=JAVASCRIPT&logoColor=1572B6)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![Razor](https://img.shields.io/badge/-Razor-333333?style=flat&logo=razor)
+#### Tecnologias de Desenvolvimento
 
-#### Tecnologias no Desenvolvimento Backend 
-![.Net](https://img.shields.io/badge/-Net-333333?style=flat&logo=.Net&logoColor=5C2D91)
 ![NODE.JS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+![.Net](https://img.shields.io/badge/-Net-333333?style=flat&logo=.Net&logoColor=5C2D91)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![JAVASCRIPT](https://img.shields.io/badge/-JAVASCRIPT-333333?style=flat&logo=JAVASCRIPT&logoColor=1572B6)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-333333?style=flat&logo=BOOTSTRAP&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS&logoColor=1572B6)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+
+
+
+
+
+
+
 
 
 #### Ferramentas CI/CD
