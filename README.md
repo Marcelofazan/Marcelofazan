@@ -3,12 +3,12 @@
 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente estou me aprofundando em tecnologias C# .NET Core e Node.js para desenvolvimento Backend e Frontend utilizando VSCode.
 
 #### Tecnologias no Desenvolvimento Backend 
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
-![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
-![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 ![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
+![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
+![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
+![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 
