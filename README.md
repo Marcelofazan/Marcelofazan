@@ -3,30 +3,26 @@
 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente estou me aprofundando em tecnologias C# .NET Core e Node.js para desenvolvimento Backend e Frontend utilizando VSCode.
 
 #### Tecnologias no Desenvolvimento Backend 
-![SQLite](https://img.shields.io/badge/-SQLite-333333?style=flat&logo=sqlite)
-![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
-![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
-![SQLServer](https://img.shields.io/badge/-SQLServer-333333?style=flat&logo=sqlserver)
-![Postgres](https://img.shields.io/badge/-Postgres-333333?style=flat&logo=postgres)
-![Oracle](https://img.shields.io/badge/-Oracle-333333?style=flat&logo=oracle)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 
 #### Tecnologias no Desenvolvimento Frontend
-
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=CSS3&logoColor=1572B6)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![Xamarin Forms](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
 ![Razor](https://img.shields.io/badge/-Razor-333333?style=flat&logo=razor)
+
+### Mobile
+![Xamarin Forms](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
+![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
 
 #### Ferramentas CI/CD
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+
 
 ---
 #### 📊 Meu Desempenho no GitHub
