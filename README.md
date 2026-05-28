@@ -5,7 +5,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 #### 📊 Tecnologias de Desenvolvimento
 ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=5C2D91)
-![C#](https://img.shields.io/badge/c%23-239120?style=for-the-badge&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
 ![.Net](https://img.shields.io/badge/-Net-333333?style=for-the-badge&logo=.Net&logoColor=5C2D91)
@@ -14,10 +14,10 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
 
 #### Ferramentas CI/CD
-![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
 
 <div align="center">
   <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
