@@ -3,7 +3,7 @@
 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente estou me aprofundando em tecnologias C# .NET Core e Node.js para desenvolvimento Backend e Frontend utilizando VSCode.
 
 #### Mobile
-![Xamarin Forms](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
+![XAMARINFORMS](https://img.shields.io/badge/-XAMARINFORMS-333333?style=flat&logo=XAMARINFORMS)
 ![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
 
 #### Tecnologias no Desenvolvimento Frontend
