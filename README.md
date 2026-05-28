@@ -22,8 +22,6 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 <div align="center">
   <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
 </div>
----
-
 
 #### 📫 Vamos nos conectar?
 <div align="center">
