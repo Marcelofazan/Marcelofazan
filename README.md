@@ -13,14 +13,15 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 ![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
 
 #### Tecnologias no Desenvolvimento Frontend
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
-![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
-![Razor](https://img.shields.io/badge/-Razor-333333?style=flat&logo=razor)
-![Xamarin Forms](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
-![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
-![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=CSS3&logoColor=1572B6)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+
 ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![React Native](https://img.shields.io/badge/-ReactNative-333333?style=flat&logo=reactnative)
+![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![Xamarin Forms](https://img.shields.io/badge/-Xamarin-333333?style=flat&logo=xamarin)
+![Razor](https://img.shields.io/badge/-Razor-333333?style=flat&logo=razor)
 
 #### Ferramentas CI/CD
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
