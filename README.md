@@ -10,17 +10,16 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 ![NODE.JS](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
+#### 
+![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=5C2D91)
+![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
 
 #### Ferramentas CI/CD
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
-
-#### 
-![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=5C2D91)
-![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
 
 <div align="center">
   <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
