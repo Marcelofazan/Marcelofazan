@@ -8,10 +8,11 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 ![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
+![Maui](https://img.shields.io/badge/Maui-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![NODE.JS](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
-![Xamarin](https://img.shields.io/badge/Xamarin-333333?style=for-the-badge&logo=dotnet&logoColor=white)
+
 
 #### Ferramentas CI/CD
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
