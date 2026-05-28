@@ -2,7 +2,7 @@
 
 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente estou me aprofundando em tecnologias C# .NET Core e Node.js para desenvolvimento Backend e Frontend utilizando VSCode.
 
-#### Tecnologias de Desenvolvimento
+#### 📊 Tecnologias de Desenvolvimento
 
 ![NODE.JS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![.Net](https://img.shields.io/badge/-Net-333333?style=flat&logo=.Net&logoColor=5C2D91)
@@ -18,7 +18,6 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=flat&logo=ubuntu)
 
-#### 📊 Meu Desempenho no GitHub
 <div align="center">
   <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
 </div>
