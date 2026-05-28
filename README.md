@@ -11,6 +11,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 ![NODE.JS](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=flat&logo=typescript)
+![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=VSCode&logoColor=5C2D91)
 
 #### Ferramentas CI/CD
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
