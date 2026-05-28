@@ -12,8 +12,8 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 ![Razor](https://img.shields.io/badge/-Razor-333333?style=flat&logo=razor)
 
 #### Tecnologias no Desenvolvimento Backend 
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
-![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.net&logoColor=5C2D91)
+![NODE.JS](https://img.shields.io/badge/-NODE.JS-333333?style=flat&logo=node.js)
+![.NET](https://img.shields.io/badge/-NET-333333?style=flat&logo=.NET&logoColor=5C2D91)
 
 #### Ferramentas CI/CD
 ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
