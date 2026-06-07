@@ -21,6 +21,11 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
+#### 
+![MediatR](https://img.shields.io/badge/-MediatR-333333?style=for-the-badge&logo=mediatr)
+![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=for-the-badge&logo=rabbitmq)
+![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
+
 
 <div align="center">
   <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
