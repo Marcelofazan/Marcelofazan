@@ -22,7 +22,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
 ###
-![Kafka](https://img.shields.io/badge/-Apache_Kafka-333333?style=for-the-badge&logo=apache-kafka)
+![Kafka](https://img.shields.io/badge/-Kafka-333333?style=for-the-badge&logo=apache-kafka)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=for-the-badge&logo=rabbitmq)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
 
