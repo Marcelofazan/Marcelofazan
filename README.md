@@ -16,7 +16,7 @@ Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Unive
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=5C2D91)
 ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
 
-#### 🚀 Ferramentas e Utilitários 
+#### 🚀 Banco de Dados e Cache, Ferramentas Essenciais, Mensageria e Streaming, Utilidades 
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=for-the-badge&logo=apache-kafka)
