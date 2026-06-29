@@ -41,6 +41,3 @@
     <img src="https://img.shields.io/static/v1?message=YouTube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
   </a>
 </div>
-
-<iframe src="https://roadmap.sh/r/embed?id=6a42dc1523088a048065b326" width="100%" height="500px" frameBorder="0"
-></iframe>
