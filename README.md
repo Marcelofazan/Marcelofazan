@@ -16,7 +16,7 @@
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=5C2D91)
 ![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
 
-#### ⚙️ Ferramentas essenciais e Outras Utilitários 
+#### ⚙️ Ferramentas essenciais e de Outras utilidades
 ![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=dotnet&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
