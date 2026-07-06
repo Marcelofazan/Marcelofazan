@@ -2,19 +2,23 @@
 
 🎓 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em Desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente aprofundando nas tecnologias C# .NET Core para Backend e Node.js para Frontend.
 
-#### 📋 Desenvolvimento nas Linguaguens, Frameworks e Tecnologias
+#### 📋 Desenvolvimento nas Linguaguens
 ![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
-![JQuery](https://img.shields.io/badge/-JQuery-333333?style=for-the-badge&logo=JQuery&logoColor=#e6b706)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
+
+#### 📋 Frameworks e Bibliotecas
+![Angular.js](https://img.shields.io/badge/angular.js-333333.svg?style=for-the-badge&logo=angularjs&logoColor=#e6b706)
 ![Maui](https://img.shields.io/badge/Maui-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NETCore](https://img.shields.io/badge/-.NETCore-333333?style=for-the-badge&logo=dotnet&logoColor=white)
-![NODE.JS](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
 #### 
 ![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=5C2D91)
 ![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
+![JQuery](https://img.shields.io/badge/-JQuery-333333?style=for-the-badge&logo=JQuery&logoColor=#e6b706)
+
 
 #### ⚙️ Ferramentas essenciais e de Outras utilidades
 ![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
