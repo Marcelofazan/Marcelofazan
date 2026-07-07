@@ -9,7 +9,9 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
 ![Maui](https://img.shields.io/badge/Maui-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![.NETCore](https://img.shields.io/badge/-.NETCore-333333?style=for-the-badge&logo=dotnet&logoColor=white)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
+
 
 #### 📚 Bibliotecas, Marcação e Estilos
 ![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=5C2D91)
