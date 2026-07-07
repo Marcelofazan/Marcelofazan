@@ -17,20 +17,24 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=for-the-badge&logo=JQuery&logoColor=#e6b706)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 
-#### ⚙️ Ferramentas Essenciais e de Outras Utilidades
+#### 🗄️ Sistemas Operacionais, conteinerização e sistema de controle de versão distribuído
 ![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
-![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=dotnet&logoColor=blue)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+
+#### 🔁 Computação em Nuvem e Plataformas e Runtimes
+![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=dotnet&logoColor=blue)
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=for-the-badge&logo=google-cloud)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
-###
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
+
+### ⚙️ Tecnologias diferentes e bancos não relacionais
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=for-the-badge&logo=apache-kafka)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=for-the-badge&logo=rabbitmq)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
+
 
 <div align="center">
   <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
