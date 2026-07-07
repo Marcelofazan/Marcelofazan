@@ -17,18 +17,18 @@
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=for-the-badge&logo=JQuery&logoColor=#e6b706)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
 
-#### 🗄️ Sistemas Operacionais, Conteinerização e Sistema de Controle de Versão
-![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-
 #### 🔁 Computação em Nuvem, Plataformas e Runtimes
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=dotnet&logoColor=blue)
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=for-the-badge&logo=google-cloud)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
+
+#### 🗄️ Sistemas Operacionais, Conteinerização e Sistema de Controle de Versão
+![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 
 #### 🔌 Técnologias diferentes e Bancos não Relacionais
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=for-the-badge&logo=apache-kafka)
