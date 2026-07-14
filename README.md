@@ -1,6 +1,6 @@
 #### 👋 Olá pessoal 
 
-🎓 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em Desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente aprofundando nas tecnologias C# .NET Core para Backend e Node.js para Frontend.
+🎓 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em Desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente aprofundando nas tecnologias C# .NET Core para Backend e Runtimes Node.js para Frontend.
 
 #### 📋 Desenvolvimento nas Linguaguens, Frameworks e Bibliotecas 
 ![Angular](https://img.shields.io/badge/angular-333333.svg?style=for-the-badge&logo=typescript&logoColor=orange)
