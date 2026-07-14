@@ -31,7 +31,7 @@
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
 
 #### 🔌 Técnologias diferentes e Bancos não Relacionais
-![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
+![Grafana](https://img.shields.io/badge/grafana-%333333.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=for-the-badge&logo=apache-kafka)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=for-the-badge&logo=rabbitmq)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
