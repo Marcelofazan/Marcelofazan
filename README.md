@@ -6,16 +6,13 @@
 
 <div align="center">
 #### 💻 Linguagens de Programação 
-</div>
-
 ![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
+</div>
 
 <div align="center">
 #### ⚙️ Frameworks e Bibliotecas
-</div>
-
 ![.NETCore](https://img.shields.io/badge/-.NETCore-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-333333.svg?style=for-the-badge&logo=typescript&logoColor=orange)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
@@ -23,6 +20,7 @@
 ![Maui](https://img.shields.io/badge/Maui-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=for-the-badge&logo=JQuery&logoColor=#e6b706)
+</div>
 
 <div align="center">
 #### 🔌 Técnologias diferentes e Bancos de Dados não Relacionais
