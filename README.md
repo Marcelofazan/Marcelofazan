@@ -11,7 +11,7 @@
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
 
 #### ⚙️ Frameworks e Bibliotecas
-![.NETCore](https://img.shields.io/badge/-.NETCore-333333?style=for-the-badge&logo=dotnet&logoColor=white)
+![.NET](https://img.shields.io/badge/-.NET-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-333333.svg?style=for-the-badge&logo=typescript&logoColor=orange)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
