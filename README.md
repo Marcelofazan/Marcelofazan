@@ -2,6 +2,12 @@
 
 🎓 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em Desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente aprofundando nas tecnologias C# .NET Core para Backend e Runtimes Node.js para Frontend.
 
+
+<div align="center">
+  <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
+</div>
+
+
 #### 📋 Desenvolvimento nas Linguaguens, Frameworks e Bibliotecas 
 ![Angular](https://img.shields.io/badge/angular-333333.svg?style=for-the-badge&logo=typescript&logoColor=orange)
 ![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -30,11 +36,6 @@
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=for-the-badge&logo=rabbitmq)
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
 ![Prometheus](https://img.shields.io/badge/Prometheus-333333?style=for-the-badge&logo=Prometheus&logoColor=white)
-
-<div align="center">
-  <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
-</div>
-
 
 #### 🗄️ Sistemas Operacionais, Conteinerização e Sistema de Controle de Versão
 ![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
