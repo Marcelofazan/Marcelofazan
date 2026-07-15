@@ -2,6 +2,7 @@
   #### 👋 Olá pessoal 
 </div>
 
+<div align="center">
 🎓 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em Desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente aprofundando nas tecnologias C# .NET Core para Backend e Runtimes Node.js para Frontend.
 </div>
 
