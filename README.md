@@ -2,6 +2,10 @@
 
 🎓 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em Desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente aprofundando nas tecnologias C# .NET Core para Backend e Runtimes Node.js para Frontend.
 
+<div align="center">
+<a href="https://roadmap.sh"><img height="230em" src="https://roadmap.sh/card/wide/6a42d51a23088a048063eb94?variant=dark" alt="roadmap.sh"/></a>
+</div>
+
 #### 📋 Desenvolvimento nas Linguaguens, Frameworks e Bibliotecas 
 ![Angular](https://img.shields.io/badge/angular-333333.svg?style=for-the-badge&logo=typescript&logoColor=orange)
 ![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -40,9 +44,7 @@
 <div align="center">
   <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
 </div>
-<div align="center">
-<a href="https://roadmap.sh"><img height="230em" src="https://roadmap.sh/card/wide/6a42d51a23088a048063eb94?variant=dark" alt="roadmap.sh"/></a>
-</div>
+
 #### 📫 Vamos nos conectar?
 <div align="center">
     <a href="https://www.linkedin.com/in/cvmarcelogustavofazan" target="_blank">
