@@ -40,10 +40,12 @@
 <div align="center">
   <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
 </div>
-
+#### 
 <div align="center">
-#### 📫 Vamos nos conectar?
+ 📫 Vamos nos conectar?
   </div>
+
+ ####  
 <div align="center">
     <a href="https://www.linkedin.com/in/cvmarcelogustavofazan" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
