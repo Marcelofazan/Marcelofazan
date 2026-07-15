@@ -2,6 +2,13 @@
 
 🎓 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em Desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente aprofundando nas tecnologias C# .NET Core para Backend e Runtimes Node.js para Frontend.
 
+
+#### 🗄️ Sistemas Operacionais, Conteinerização e Sistema de Controle de Versão
+![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
+
 #### 💻 Linguagens de Programação 
 ![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
@@ -41,12 +48,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
-
-#### 🗄️ Sistemas Operacionais, Conteinerização e Sistema de Controle de Versão
-![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
 
 #### 🔌 Técnologias diferentes e Bancos de Dados não Relacionais
 ![Grafana](https://img.shields.io/badge/grafana-333333.svg?style=for-the-badge&logo=grafana&logoColor=white)
