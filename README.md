@@ -2,6 +2,26 @@
 
 🎓 Sou graduado no curso de Análise e Desenvolvimento de Sistemas pela Unip (Universidade Paulista) em 2020, com Pós-Graduação MBA em Desenvolvimento para internet FullStack pelo instituto XP Educação de Belo Horizonte em 2023. Atualmente aprofundando nas tecnologias C# .NET Core para Backend e Runtimes Node.js para Frontend.
 
+#### 💻 Linguagens de Programação
+![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
+![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
+
+#### ⚙️ Frameworks e Bibliotecas
+![.NETCore](https://img.shields.io/badge/-.NETCore-333333?style=for-the-badge&logo=dotnet&logoColor=white)
+![Angular](https://img.shields.io/badge/angular-333333.svg?style=for-the-badge&logo=typescript&logoColor=orange)
+![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
+![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Maui](https://img.shields.io/badge/Maui-333333?style=for-the-badge&logo=dotnet&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![JQuery](https://img.shields.io/badge/-JQuery-333333?style=for-the-badge&logo=JQuery&logoColor=#e6b706)
+
+#### 🎨 Estilo e Marcação (Frontend)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=5C2D91)
+![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
+![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
+
+
 #### 🗄️ Sistemas Operacionais, Conteinerização e Sistema de Controle de Versão
 ![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
@@ -14,27 +34,6 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
-
-#### 💻 Linguagens de Programação
-![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
-![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
-#### ⚙️ Frameworks e Bibliotecas
-![.NETCore](https://img.shields.io/badge/-.NETCore-333333?style=for-the-badge&logo=dotnet&logoColor=white)
-![Angular](https://img.shields.io/badge/angular-333333.svg?style=for-the-badge&logo=typescript&logoColor=orange)
-![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
-![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Maui](https://img.shields.io/badge/Maui-333333?style=for-the-badge&logo=dotnet&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![JQuery](https://img.shields.io/badge/-JQuery-333333?style=for-the-badge&logo=JQuery&logoColor=#e6b706)
-#### 🎨 Estilo e Marcação (Frontend)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=5C2D91)
-![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
-![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
-
-
-####
-
 
 
 #### 🔌 Técnologias diferentes e Bancos de Dados não Relacionais
