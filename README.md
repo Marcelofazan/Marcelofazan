@@ -30,7 +30,6 @@
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=dotnet&logoColor=blue)
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=for-the-badge&logo=google-cloud)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
 
 #### 🗄️ Sistemas Operacionais, Conteinerização e Sistema de Controle de Versão
