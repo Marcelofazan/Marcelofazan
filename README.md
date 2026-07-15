@@ -16,12 +16,6 @@
 ![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=for-the-badge&logo=JQuery&logoColor=#e6b706)
 
-#### 🎨 Estilo e Marcação (Frontend)
-![CSS](https://img.shields.io/badge/-CSS-333333?style=for-the-badge&logo=CSS&logoColor=5C2D91)
-![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
-![BootStrap](https://img.shields.io/badge/-BootStrap-333333?style=for-the-badge&logo=BootStrap&logoColor=1572B6)
-
-
 #### 🗄️ Sistemas Operacionais, Conteinerização e Sistema de Controle de Versão
 ![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
