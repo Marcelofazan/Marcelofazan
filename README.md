@@ -14,6 +14,13 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
 
+#### 🗄️ Sistemas Operacionais, Conteinerização e Sistema de Controle de Versão
+![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
+![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
+![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
+![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
+
+
 #### 📋 Desenvolvimento nas Linguaguens, Frameworks e Bibliotecas 
 ![Angular](https://img.shields.io/badge/angular-333333.svg?style=for-the-badge&logo=typescript&logoColor=orange)
 ![C#](https://img.shields.io/badge/c%23-333333?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -28,13 +35,6 @@
 ![Html5](https://img.shields.io/badge/-Html5-333333?style=for-the-badge&logo=Html5)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=for-the-badge&logo=JQuery&logoColor=#e6b706)
-
-#### 🗄️ Sistemas Operacionais, Conteinerização e Sistema de Controle de Versão
-![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
-![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
-![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
-![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
-
 
 #### 🔌 Técnologias diferentes, monitoramento, observabilidade e bancos de dados não relacionais
 ![Grafana](https://img.shields.io/badge/grafana-333333.svg?style=for-the-badge&logo=grafana&logoColor=white)
