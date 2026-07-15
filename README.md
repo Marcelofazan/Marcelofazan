@@ -41,6 +41,8 @@
   <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
 </div>
 
+<a href="https://roadmap.sh"><img src="https://roadmap.sh/card/wide/6a42d51a23088a048063eb94?variant=dark" alt="roadmap.sh"/></a>
+
 #### 📫 Vamos nos conectar?
 <div align="center">
     <a href="https://www.linkedin.com/in/cvmarcelogustavofazan" target="_blank">
