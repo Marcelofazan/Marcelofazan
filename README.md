@@ -24,7 +24,7 @@
 ![Postman](https://img.shields.io/badge/-Postman-333333?style=for-the-badge&logo=postman)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
 
-#### 🔌 Técnologias diferentes, monitoramento, observabilidade, rastreamento e bancos de dados não relacionais
+#### 🔌 Técnologias diferentes, monitoramento, observabilidade e bancos de dados não relacionais
 ![Grafana](https://img.shields.io/badge/grafana-333333.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=for-the-badge&logo=apache-kafka)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=for-the-badge&logo=rabbitmq)
