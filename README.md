@@ -13,6 +13,7 @@
 #### ⚙️ Frameworks e Bibliotecas
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-333333.svg?style=for-the-badge&logo=typescript&logoColor=orange)
+![Bootstrap](https://img.shields.io/badge/bootstrap-333333.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=for-the-badge&logo=JQuery&logoColor=#e6b706)
 ![Maui](https://img.shields.io/badge/Maui-333333?style=for-the-badge&logo=dotnet&logoColor=white)
