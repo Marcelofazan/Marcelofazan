@@ -18,7 +18,7 @@
 ![Maui](https://img.shields.io/badge/Maui-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 
-#### 🔌 Técnologias diferentes e Bancos de Dados não Relacionais
+#### 🔌 Observabilidade, Mensageria e Bancos de Dados não Relacionais
 ![Grafana](https://img.shields.io/badge/grafana-333333.svg?style=for-the-badge&logo=grafana&logoColor=white)
 ![Kafka](https://img.shields.io/badge/-Kafka-333333?style=for-the-badge&logo=apache-kafka)
 ![RabbitMQ](https://img.shields.io/badge/-RabbitMQ-333333?style=for-the-badge&logo=rabbitmq)
