@@ -31,7 +31,7 @@
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
 
-#### 🗄️ Sistemas Operacionais, Conteinerização e Sistema de Controle de Versão
+#### 🗄️ Sistemas Operacionais, Conteinerização e Controle de Versão
 ![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
