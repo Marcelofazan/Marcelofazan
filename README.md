@@ -10,6 +10,11 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=for-the-badge&logo=JavaScript&logoColor=#e6b706)
 ![Typescript](https://img.shields.io/badge/-Typescript-333333?style=for-the-badge&logo=typescript)
 
+#### 🎨 Frontend
+![Bootstrap](https://img.shields.io/badge/bootstrap-333333.svg?style=for-the-badge&logo=bootstrap)
+![CSS](https://img.shields.io/badge/css-333333.svg?style=for-the-badge&logo=css)
+![HTML5](https://img.shields.io/badge/html5-333333.svg?style=for-the-badge&logo=html5)
+
 #### ⚙️ Frameworks e Bibliotecas
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-333333.svg?style=for-the-badge&logo=typescript&logoColor=orange)
@@ -25,22 +30,17 @@
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
 ![Prometheus](https://img.shields.io/badge/Prometheus-333333?style=for-the-badge&logo=Prometheus&logoColor=white)
 
-#### 🎨 Frontend
-![Bootstrap](https://img.shields.io/badge/bootstrap-333333.svg?style=for-the-badge&logo=bootstrap)
-![CSS](https://img.shields.io/badge/css-333333.svg?style=for-the-badge&logo=css)
-![HTML5](https://img.shields.io/badge/html5-333333.svg?style=for-the-badge&logo=html5)
+#### 🔁 Computação em Nuvem, Plataformas e Runtimes
+![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=dotnet&logoColor=blue)
+![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=for-the-badge&logo=google-cloud)
+![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
+![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
 
 #### 🗄️ Sistemas Operacionais, Conteinerização e Controle de Versão
 ![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-333333?style=for-the-badge&logo=git)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-333333?style=for-the-badge&logo=ubuntu)
-
-#### 🔁 Computação em Nuvem, Plataformas e Runtimes
-![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=dotnet&logoColor=blue)
-![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=for-the-badge&logo=google-cloud)
-![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
 
 
 <div align="center">
