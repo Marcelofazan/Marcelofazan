@@ -29,7 +29,6 @@
 ![Bootstrap](https://img.shields.io/badge/bootstrap-333333.svg?style=for-the-badge&logo=bootstrap)
 ![CSS](https://img.shields.io/badge/css-333333.svg?style=for-the-badge&logo=css)
 ![HTML5](https://img.shields.io/badge/html5-333333.svg?style=for-the-badge&logo=html5)
-![Postman](https://img.shields.io/badge/Postman-333333?style=for-the-badge&logo=postman)
 
 #### 🔁 Computação em Nuvem, Plataformas e Runtimes
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=dotnet&logoColor=blue)
