@@ -13,6 +13,7 @@
 #### ⚙️ Frameworks e Bibliotecas
 ![.NET](https://img.shields.io/badge/-.NET-333333?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Angular](https://img.shields.io/badge/angular-333333.svg?style=for-the-badge&logo=typescript&logoColor=orange)
+![Bootstrap](https://img.shields.io/badge/bootstrap-333333.svg?style=for-the-badge&logo=bootstrap)
 ![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=for-the-badge&logo=JQuery&logoColor=#e6b706)
 ![Maui](https://img.shields.io/badge/Maui-333333?style=for-the-badge&logo=dotnet&logoColor=white)
@@ -25,18 +26,12 @@
 ![Redis](https://img.shields.io/badge/-Redis-333333?style=for-the-badge&logo=redis)
 ![Prometheus](https://img.shields.io/badge/Prometheus-333333?style=for-the-badge&logo=Prometheus&logoColor=white)
 
-#### 🎨 Frontend
-![Bootstrap](https://img.shields.io/badge/bootstrap-333333.svg?style=for-the-badge&logo=bootstrap)
-![CSS](https://img.shields.io/badge/css-333333.svg?style=for-the-badge&logo=css)
-![HTML5](https://img.shields.io/badge/html5-333333.svg?style=for-the-badge&logo=html5)
-
 #### 🔁 Computação em Nuvem, Plataformas, Conteinerização e Runtimes
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=dotnet&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=for-the-badge&logo=google-cloud)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
 ![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
-
 
 <div align="center">
   <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
