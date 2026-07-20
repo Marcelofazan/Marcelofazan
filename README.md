@@ -26,9 +26,9 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-333333?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 #### 🎨 Frontend
-![Bootstrap](https://img.shields.io/badge/bootstrap-333333.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
-![CSS](https://img.shields.io/badge/css-333333.svg?style=for-the-badge&logo=css&logoColor=white)
-![HTML5](https://img.shields.io/badge/html5-333333.svg?style=for-the-badge&logo=html5&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/bootstrap-333333.svg?style=for-the-badge&logo=bootstrap)
+![CSS](https://img.shields.io/badge/css-333333.svg?style=for-the-badge&logo=css)
+![HTML5](https://img.shields.io/badge/html5-333333.svg?style=for-the-badge&logo=html5)
 
 #### 🗄️ Sistemas Operacionais, Conteinerização e Controle de Versão
 ![Android](https://img.shields.io/badge/-Andriod-333333?style=for-the-badge&logo=android&logoColor=blue)
