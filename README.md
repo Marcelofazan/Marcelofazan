@@ -17,6 +17,7 @@
 ![Express.js](https://img.shields.io/badge/express.js-333333.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![JQuery](https://img.shields.io/badge/-JQuery-333333?style=for-the-badge&logo=JQuery&logoColor=#e6b706)
 ![Maui](https://img.shields.io/badge/Maui-333333?style=for-the-badge&logo=dotnet&logoColor=white)
+![NHibernate](https://img.shields.io/badge/NHibernate-333333?style=for-the-badge&logo=Hibernate&logoColor=white)
 ![React](https://img.shields.io/badge/-React-333333?style=for-the-badge&logo=react)
 
 #### 🔌 Observabilidade, Mensageria e Bancos de Dados não Relacionais
