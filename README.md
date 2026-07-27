@@ -31,7 +31,6 @@
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=for-the-badge&logo=google-cloud)
 ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=for-the-badge&logo=node.js)
-![Supabase](https://img.shields.io/badge/-Supabase-333333?style=for-the-badge&logo=supabase)
 
 <div align="center">
   <img height="230em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Marcelofazan&langs_count=100&layout=compact&theme=algolia&hide=null&theme=light" />
