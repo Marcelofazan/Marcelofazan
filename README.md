@@ -27,6 +27,7 @@
 ![Prometheus](https://img.shields.io/badge/Prometheus-333333?style=for-the-badge&logo=Prometheus&logoColor=white)
 
 #### 🔁 Computação em Nuvem, Plataformas, Conteinerização e Runtimes
+![Android](https://img.shields.io/badge/Android-333333?style=for-the-badge&logo=android&logoColor=white)
 ![Azure](https://img.shields.io/badge/-Azure-333333?style=for-the-badge&logo=dotnet&logoColor=blue)
 ![Docker](https://img.shields.io/badge/-Docker-333333?style=for-the-badge&logo=docker)
 ![Google Cloud](https://img.shields.io/badge/-GoogleCloud-333333?style=for-the-badge&logo=google-cloud)
